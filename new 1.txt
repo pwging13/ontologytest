@@ -1,0 +1,7 @@
+Name,RXCUI,cansarID,Unsalted Version
+Tamoxifen,1,10,Tamoxifen
+Tamoxifen Citratte,2,11,Tamoxifen
+Tamoxifen Sulfate,3,12,Tamoxifen
+Tamoxifen oxalate,4,13,Tamoxifen
+Tamoximax,5,10,Tamoxifen
+Tamoximinus,2,10,Tamoxifen
